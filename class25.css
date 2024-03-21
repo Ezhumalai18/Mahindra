@@ -1,0 +1,22 @@
+h1{
+    font-style: italic;
+}
+p{
+    font-weight: bolder;
+    font-style: italic;
+}
+img:hover{
+    width:800px;
+    background-color: black;
+    box-shadow:5px 5px rgb(16, 16, 15) ;
+  
+}
+img{
+    border-radius: 10px;
+}
+img{
+
+
+    border: 2px solid rgb(200, 255, 0);
+
+}

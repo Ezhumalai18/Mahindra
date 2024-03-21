@@ -1,0 +1,28 @@
+.HISTORY1{
+    width: auto;
+    display: flex;
+    
+ }
+   
+   .HISTORY1 img:hover{
+    border-radius: 30px;
+   } 
+div h1{
+    background-color: black;
+    color: aliceblue;
+}
+.youtube{
+    text-align: center;
+}
+
+
+.footer {
+    padding-top: 50px;
+  padding-left: 80px;
+}
+.footer1 div p{
+    
+    background-color: black;
+    color: aliceblue;
+
+}

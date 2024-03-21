@@ -1,0 +1,18 @@
+.header{
+    width: 80%;
+    display: flex;
+}
+.img{
+    display: flex;
+    
+}
+.img img{
+    width:100%;
+
+}
+.img img :hover{ 
+    box-shadow:20px ;
+    
+}
+
+
